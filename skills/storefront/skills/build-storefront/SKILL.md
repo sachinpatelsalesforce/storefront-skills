@@ -5,7 +5,7 @@ description: Guide a colleague through building and rebranding a React SPA retai
 
 # Build & Rebrand a Storefront
 
-You are helping a colleague build and brand a new retail storefront site based on a proven React SPA template. The template is documented in `template-design.md` — read it first if it exists in the current working directory or in the repository root.
+You are helping a colleague build and brand a new retail storefront site based on a proven React SPA template. The template architecture is documented in `template-design.md`.
 
 ## What you will do
 
@@ -18,7 +18,13 @@ You are helping a colleague build and brand a new retail storefront site based o
 
 ## Step 1 — Read the template
 
-Read `template-design.md` now. This gives you the full picture of the architecture, components, data models, design tokens, and rebranding checklist before you ask any questions.
+Read `template-design.md` using the following lookup order — stop at the first one that exists:
+
+1. `~/claude-projects/template-design.md` — global template on the author's machine
+2. The same directory this skill was loaded from (the plugin install path)
+3. The current working directory
+
+This gives you the full picture of the architecture, components, data models, design tokens, and rebranding checklist before you ask any questions.
 
 ---
 
