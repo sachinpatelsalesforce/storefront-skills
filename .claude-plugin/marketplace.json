@@ -1,0 +1,20 @@
+{
+  "name": "storefront-skills",
+  "description": "Skills for building and rebranding a React retail storefront demo.",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Sachin Patel"
+  },
+  "plugins": [
+    {
+      "name": "storefront",
+      "description": "Skills for scaffolding and rebranding a React SPA retail storefront. Includes a guided build-and-rebrand skill that walks you through the full rebranding checklist.",
+      "author": {
+        "name": "Sachin Patel"
+      },
+      "source": "./skills/storefront",
+      "category": "productivity",
+      "strict": false
+    }
+  ]
+}
