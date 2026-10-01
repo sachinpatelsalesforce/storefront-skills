@@ -13,8 +13,7 @@
         "name": "Sachin Patel"
       },
       "source": "./skills/storefront",
-      "category": "productivity",
-      "strict": false
+      "category": "productivity"
     }
   ]
 }
